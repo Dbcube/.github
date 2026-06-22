@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./.github/banner.png" alt="Dbcube — the type-safe, Rust-powered ORM" width="100%" />
+  <img src="./../.github/banner.png" alt="Dbcube — the type-safe, Rust-powered ORM" width="100%" />
   <p><strong>The type-safe, Rust-powered ORM for Node.js — one fluent API for every database.</strong></p>
 
 <a href="https://www.npmjs.com/package/dbcube"><img src="https://img.shields.io/npm/v/dbcube.svg?style=flat" alt="npm version" /></a>
