@@ -169,7 +169,7 @@ npx dbcube doctor              # health checks
 
 ## Try it locally
 
-This repo ships a Docker setup and a runnable starter so you can try Dbcube in
+The main repo ships a Docker setup and a runnable starter so you can try Dbcube in
 under a minute:
 
 ```bash
@@ -179,7 +179,7 @@ cd examples/quickstart
 npm install && npm run setup && npm start
 ```
 
-## What's in this repo
+## What's in the main repo
 
 ```
 dbcube/
